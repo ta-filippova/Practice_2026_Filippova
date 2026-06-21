@@ -35,7 +35,7 @@ public class Program
         DateTime expirationDate = DateTime.Parse(Console.ReadLine());
 
         while (expirationDate <= productionDate)
-        {
+            {
             Console.Write("Дата окончания срока должна быть позже даты производства. Повторите ввод : ");
             expirationDate = DateTime.Parse(Console.ReadLine());
         }
