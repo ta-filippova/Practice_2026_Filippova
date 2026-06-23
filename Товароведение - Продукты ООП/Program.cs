@@ -69,5 +69,6 @@ public class Product
         sb.AppendLine($"Срок годности до: {ExpirationDate:dd.MM.yyyy}");
         sb.AppendLine($"Дата производства: {ProductionDate:dd.MM.yyyy}");
         return sb.ToString();
+        
     }
 }

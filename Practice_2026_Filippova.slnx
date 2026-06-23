@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Коллекции/Коллекции.csproj" Id="de49895d-2e0b-446b-a287-f0338a1d61c7" />
+  <Project Path="Работа с БД из кода/Работа с БД из кода.csproj" Id="6146d2aa-ceb7-4135-b344-99fd52250134" />
   <Project Path="Типы данных 1/Типы данных 1.csproj" />
   <Project Path="Типы данных 2/Типы данных 2.csproj" />
   <Project Path="Товароведение - Продукты ООП/Товароведение - Продукты ООП.csproj" />
